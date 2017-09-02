@@ -1,3 +1,7 @@
 *.odt
+*.docx
 docs/College/*
 dumps
+www/htdocs/*.md
+docs/*.md
+docs/*.txt
